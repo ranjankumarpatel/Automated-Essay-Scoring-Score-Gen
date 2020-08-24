@@ -1,0 +1,7 @@
+spacy
+language_check
+seaborn
+sklearn
+pyldavis
+textblob
+keras
